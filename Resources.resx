@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="StudentRecords" xml:space="preserve">
+    <value>Student Records</value>
+  </data>
+  <data name="ViewButton" xml:space="preserve">
+    <value>VIEW</value>
+  </data>
+  <data name="StudentId" xml:space="preserve">
+    <value>Student ID</value>
+  </data>
+  <data name="FullName" xml:space="preserve">
+    <value>Full Name</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="ContactInfo" xml:space="preserve">
+    <value>Contact Information</value>
+  </data>
+  <data name="CourseYear" xml:space="preserve">
+    <value>Course/Year</value>
+  </data>
+</root>
